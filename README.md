@@ -1,4 +1,4 @@
-# Predicting House Price  
+# Handling Missing Data 
 
 In this project, house price data is used. 
 
