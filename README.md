@@ -1,4 +1,4 @@
-# Comparison-of-Different-Techniques-to-Deal-with-Missing-Data
+# Comparison of Different Techniques to Deal with Missing-Data
 In this project, house price data is used. 
 
 1- Missing data is created according to MCAR, MAR, MNAR mechanisms with the given missing data percentage. 
